@@ -25,7 +25,7 @@ else
 	echo "Installing ...."
 	if [ -f "${dir}/dl-jar/jdk-8u212-linux-arm32-vfp-hflt.tar.gz" ] ; then
 		echo "If you change your mind you can Ctrl+C in 10s"
-		# Code below found at
+		# Code below found at https://serverfault.com/a/532564
 		secs=$((10))
 		while [ $secs -gt 0 ]; do
 	   		echo -ne "$secs\033[0K\r"
