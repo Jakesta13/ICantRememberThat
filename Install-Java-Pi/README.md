@@ -24,3 +24,8 @@ If you choose yes and it deletes pizza because you already have java installed, 
 
 ## Is that it?
 Yup.
+
+
+## Notes
+This script wasn't tested to work on a Raspberry Pi as all mine have java installed already.
+If you try this out and it works, please let me know so I can change this message.
