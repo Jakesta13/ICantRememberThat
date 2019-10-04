@@ -35,7 +35,7 @@ else
 		### ### ###
 	# I know sudo is not a good choice to use here, but this is made to be ran on Raspberry Pis, and sudo usually doesn't need passwords
 		sudo mkdir /usr/java
-		(cd /usr/jar/ && sudo tar xf ${dir}/dl-java/jdk-8u212-linux-arm32-vfp-hflt.tar.gz)
+		(cd /usr/jar/ && sudo tar xf ${dir}/dl-jar/jdk-8u212-linux-arm32-vfp-hflt.tar.gz)
 		sudo update-alternatives --install /usr/bin/java java /usr/java/jdk1.8.0_212/bin/java 1000
 		sudo update-alternatives --install /usr/bin/javac javac /usr/java/jdk1.8.0_212/bin/javac 1000
 		if [ ${keep} == "y" ] ; then
