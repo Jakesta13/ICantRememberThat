@@ -4,7 +4,7 @@ A whole lot of time is spent searching how to do it, every time you reset your s
 
 ## How
 Basically 4 things
-* Downloads a specfic copy of java from (this repo)[https://github.com/frekele/oracle-java/] as orcale requires you to make an account
+* Downloads a specfic copy of java from [this repo](https://github.com/frekele/oracle-java/) as orcale requires you to make an account
 	to download java versions now.
 * Makes a DIR in /usr/java
 * Extracts the tar.gz file into /usr/java
