@@ -8,3 +8,4 @@ It's good pratice to look at the code for each script that you plan on using, it
 
 ## Scripts list
 * [Mcworld.sh](Minecraft/Mcworld.sh) - Lets you download your minecraft world over SSH Tarball, instead of saving a backup on the host machine.
+* [Install-Java-Pi](https://github.com/Jakesta13/ICantRememberThat/tree/master/Install-Java-Pi) Makes installing java to your Pis easier!
